@@ -222,15 +222,15 @@ body{
 
 .v1:hover{
   
-  background-image: url(./image/6c960f4db93ddaccac4b4817c7342727.jpg);
+ background-color: #550909;
  
 }
 .v2:hover{
-  background-image: url(./image/42d3b7b72e6013926dd9fd9f23ec9694.jpg);
+  background-color: #550909;
  
 }
 .v3:hover{
-  background-image: url(./image/c113d5346681b20441a08c0f77b07bc1.jpg);
+ 
  
 }
 .scroll{
@@ -380,7 +380,7 @@ body{
     width: 100%;
     height: 0;
     border-radius: 50%;
-    background-color: #1369ce;
+    background-color: #550909;
     position: absolute;
     bottom: 135%;
     right: 0;
@@ -399,7 +399,7 @@ body{
     width: 100%;
     height: 100%;
     border-radius: 50%;
-    background-color: #1369ce;
+    background-color: #550909;
     position: absolute;
     top: 0;
     left: 0;
@@ -430,7 +430,7 @@ body{
     width: 100%;
     padding: 0;
     margin: 0;
-    background-color: #1369ce;
+    background-color: #550909;
     position: absolute;
     bottom: -100px;
     left: 0;
@@ -455,7 +455,7 @@ body{
   }
   
   .our-team .social li a:hover {
-    color: #1369ce;
+    color: #550909;
     background-color: #f7f5ec;
   }
   /* Blink for Webkit and others
@@ -570,7 +570,7 @@ body{
   padding: 10px;
 }
 .card a {
-  background-color: #006dae;
+  background-color: #470b0b;
   color: #fff;
   padding: 5px 20px;
   display: block;
@@ -581,7 +581,7 @@ body{
 }
 
 .card:hover {
-  background-color: #006dae;
+  background-color:  #470b0b;
   color: #fff;
   cursor: pointer;
   transform: scale(1.03);
@@ -589,7 +589,7 @@ body{
 }
 a:hover {
   background-color: #fff;
-  color: #006dae;
+  color: #470b0b;
   cursor: pointer;
   transform: scale(1.03);
   transition: all 1s ease;
@@ -617,3 +617,4 @@ a:hover {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+

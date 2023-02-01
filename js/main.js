@@ -101,4 +101,6 @@ $('#lightSlider').lightSlider({
   slideMargin: 0,
   thumbItem: 9
 });
+// count
+
 
