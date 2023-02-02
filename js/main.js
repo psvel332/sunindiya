@@ -102,5 +102,8 @@ $('#lightSlider').lightSlider({
   thumbItem: 9
 });
 // count
-
+function myFunction(x) {
+    x.classList.toggle("change");
+  }
+  AOS.init();
 
